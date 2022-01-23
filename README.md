@@ -1,1 +1,1 @@
-# Seiji0314.github.io
+# githubを用いてホームページを作成
