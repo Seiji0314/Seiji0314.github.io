@@ -47,8 +47,8 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 #header img{
     position:absolute;
     left:50%;
-    width:1280px;
-    height:auto;
+    width:auto;
+    height:568px;
     margin-left:-640px;
 }
 
@@ -65,7 +65,7 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 
 #slogan h1{
 	font-size: 40px;
-	font-family: 'Pacifico', cursive;
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 	margin-bottom: 20px;
 	font-weight:normal;
 }
