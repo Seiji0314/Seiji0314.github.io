@@ -49,7 +49,8 @@ a:active, a:focus,input:active, input:focus{outline:0;}
     left:50%;
     width:auto;
     height:568px;
-    margin-left:auto;
+    text-align: center;
+    <!--margin-left:auto;-->
 }
 
 #slogan{
