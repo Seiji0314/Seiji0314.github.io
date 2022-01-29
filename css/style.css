@@ -44,6 +44,16 @@ a:active, a:focus,input:active, input:focus{outline:0;}
     height:800px;
 }
 
+/* パソコンで見たときは"pc"のclassがついた画像が表示される */
+.pc { display: block !important; }
+.sp { display: none !important; }
+ 
+/* スマートフォンで見たときは"sp"のclassがついた画像が表示される */
+@media only screen and (max-width: 750px) {
+    .pc { display: none !important; }
+    .sp { display: block !important; }
+}
+
 #header img{
     <!-- display: block;-->
     position:absolute;
